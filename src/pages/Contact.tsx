@@ -1,5 +1,4 @@
 import { Card, Button, Label, TextInput, Textarea } from "flowbite-react";
-import { FaFacebookF, FaTwitter, FaGooglePlusG } from "react-icons/fa";
 import AppBreadcrumb from "../components/AppBreadcrumb";
 
 export function Contact() {
